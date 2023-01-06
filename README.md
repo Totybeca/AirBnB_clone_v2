@@ -15,5 +15,5 @@ a back-end API, and front-end interfacing in a clone of AirBnB.
 The project currently only implements the back-end console.
 
 ## Authors:
-* Ogunsote Ayotund <[Ogunsote Ayotunde](https://github.com/Ayotunde13)>
+* Ogunsote Ayotunde <[Ogunsote Ayotunde](https://github.com/Ayotunde13)>
 * Toyin Fashemore <[Toyin Fashemore](https://github.com/Totybeca)>
